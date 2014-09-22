@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "chalk": "^0.5.0",
-    "html-minifier": "~0.6.0",
+    "html-minifier": "wet-boew/html-minifier#custom",
     "pretty-bytes": "~0.1.0"
   },
   "devDependencies": {
